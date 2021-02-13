@@ -1,0 +1,7 @@
+# Browsers that we support
+# Navegadores que admitimos
+# Ejecute "npx browserslist" en el directorio del proyecto para ver qué navegadores seleccionaron sus consultas.
+
+last 2 version
+> 0.5%
+IE 10 # sorry
